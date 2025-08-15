@@ -34,6 +34,23 @@ SMODS.Atlas {
     disable_mipmap = true,
 }
 
+SMODS.Atlas {
+    key = 'hearts_1',
+    path = "collabs/sebalatro_1_corazones.png",
+    atlas_table = 'ASSET_ATLAS',
+    px = 71,
+    py = 95,
+    disable_mipmap = true,
+}
+SMODS.Atlas {
+    key = 'hearts_2',
+    path = "collabs/sebalatro_1_corazones_hc.png",
+    atlas_table = 'ASSET_ATLAS',
+    px = 71,
+    py = 95,
+    disable_mipmap = true,
+}
+
 SMODS.DeckSkin({
     key = 'sebalatro_clubs',
     suit = "Clubs",
@@ -55,5 +72,17 @@ SMODS.DeckSkin({
     posStyle = 'collab',
     loc_txt = {
         ["en-us"] = "K, Chrome y J",
+    }
+})
+
+SMODS.DeckSkin({
+    key = 'sebalatro_hearts',
+    suit = "Hearts",
+    ranks = ranks,
+    lc_atlas = 'sebalatro_hearts_1',
+    hc_atlas = "sebalatro_hearts_2",
+    posStyle = 'collab',
+    loc_txt = {
+        ["en-us"] = "K, Edomancer y J",
     }
 })
