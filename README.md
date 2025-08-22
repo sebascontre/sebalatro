@@ -1,10 +1,14 @@
-# Sebalatro
+# Sebalatro ♠️♥️♣️♦️
 Adding spanish speaking Vtuber character face cards to the game.
 
-- Chrome as Spades Queen
-- Seba as Clubs King
+- [Chrome Cottontail](https://www.twitch.tv/chromevt) as ♠️Spades Queen
+- [Edomancer](https://www.twitch.tv/edomancer) as ♥️Hearts Queen
+- [SebasContre](https://www.twitch.tv/sebascontre) as ♣️Clubs King
+- [Arisa Elizabeth](https://www.twitch.tv/arisaelizabeth) as ♦️Diamonds Queen
 
-New cards will be available weekly
+All the art is made by [HiyokoSupiritto](https://x.com/Hiyoko991).
+
+New cards will be available weekly.
 
 # License
 
