@@ -51,6 +51,23 @@ SMODS.Atlas {
     disable_mipmap = true,
 }
 
+SMODS.Atlas {
+    key = 'diamonds_1',
+    path = "collabs/sebalatro_1_diamantes.png",
+    atlas_table = 'ASSET_ATLAS',
+    px = 71,
+    py = 95,
+    disable_mipmap = true,
+}
+SMODS.Atlas {
+    key = 'diamonds_2',
+    path = "collabs/sebalatro_1_diamantes_hc.png",
+    atlas_table = 'ASSET_ATLAS',
+    px = 71,
+    py = 95,
+    disable_mipmap = true,
+}
+
 SMODS.DeckSkin({
     key = 'sebalatro_clubs',
     suit = "Clubs",
@@ -84,5 +101,17 @@ SMODS.DeckSkin({
     posStyle = 'collab',
     loc_txt = {
         ["en-us"] = "K, Edomancer y J",
+    }
+})
+
+SMODS.DeckSkin({
+    key = 'sebalatro_diamonds',
+    suit = "Hearts",
+    ranks = ranks,
+    lc_atlas = 'sebalatro_diamonds_1',
+    hc_atlas = "sebalatro_diamonds_2",
+    posStyle = 'collab',
+    loc_txt = {
+        ["en-us"] = "K, Arisa y J",
     }
 })
