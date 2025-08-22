@@ -106,7 +106,7 @@ SMODS.DeckSkin({
 
 SMODS.DeckSkin({
     key = 'sebalatro_diamonds',
-    suit = "Hearts",
+    suit = "Diamonds",
     ranks = ranks,
     lc_atlas = 'sebalatro_diamonds_1',
     hc_atlas = "sebalatro_diamonds_2",
@@ -114,4 +114,5 @@ SMODS.DeckSkin({
     loc_txt = {
         ["en-us"] = "K, Arisa y J",
     }
+
 })
