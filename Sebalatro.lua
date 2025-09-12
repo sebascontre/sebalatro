@@ -88,7 +88,7 @@ SMODS.DeckSkin({
     hc_atlas = "sebalatro_spades_2",
     posStyle = 'collab',
     loc_txt = {
-        ["en-us"] = "K, Chrome y J",
+        ["en-us"] = "K, Chrome y Sombra",
     }
 })
 
