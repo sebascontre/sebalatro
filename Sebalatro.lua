@@ -112,7 +112,7 @@ SMODS.DeckSkin({
     hc_atlas = "sebalatro_diamonds_2",
     posStyle = 'collab',
     loc_txt = {
-        ["en-us"] = "K, Arisa y J",
+        ["en-us"] = "K, Arisa y Funkyo",
     }
 
 })

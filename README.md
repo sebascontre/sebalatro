@@ -3,12 +3,13 @@ Adding spanish speaking Vtuber character face cards to the game.
 
 - [Chrome Cottontail](https://www.twitch.tv/chromevt) as ♠️Spades Queen
 - [Sombra 7474](https://www.twitch.tv/sombra7474) as ♠️Spades Jack
-- [SebasContre](https://www.twitch.tv/sebascontre) as ♥️Clubs King
+- [SebasContre](https://www.twitch.tv/sebascontre) as ♥️Hearts King
 - [Edomancer](https://www.twitch.tv/edomancer) as ♥️Hearts Queen
 - [YopAlonso](https://www.twitch.tv/yopalonso) as ♥️Hearts Jack
 - [Eclipse Noctis](https://www.twitch.tv/eclipsenoctis) as ♣️Clubs King
 - [Zamcito](https://www.twitch.tv/zamcito) as ♣️Clubs Jack
 - [Arisa Elizabeth](https://www.twitch.tv/arisaelizabeth) as ♦️Diamonds Queen
+- [Funkyo Enma](https://www.twitch.tv/funkyoenma) as ♦️Diamonds Jack
 
 All the art is made by [HiyokoSupiritto](https://x.com/Hiyoko991).
 
